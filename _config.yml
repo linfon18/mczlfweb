@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 'MCZLF Studio'
+subtitle: 'Hello,World'
+description: 'MCZLFStudioWeb,Github静态托管版本'
 keywords:
-author: John Doe
-language: en
+author: linfon18
+language: zh-CN
 timezone: ''
 
 # URL
